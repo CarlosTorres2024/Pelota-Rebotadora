@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C# PROGRAMAS\PelotaRebotadora\PelotaRebotadora\bin\Debug\PelotaRebotadora.exe.config
+C:\Users\User\Desktop\C# PROGRAMAS\PelotaRebotadora\PelotaRebotadora\bin\Debug\PelotaRebotadora.exe
+C:\Users\User\Desktop\C# PROGRAMAS\PelotaRebotadora\PelotaRebotadora\bin\Debug\PelotaRebotadora.pdb
+C:\Users\User\Desktop\C# PROGRAMAS\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C# PROGRAMAS\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C# PROGRAMAS\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.exe
+C:\Users\User\Desktop\C# PROGRAMAS\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.pdb
+C:\Users\User\Desktop\PelotaRebotadora\PelotaRebotadora\bin\Debug\PelotaRebotadora.exe.config
+C:\Users\User\Desktop\PelotaRebotadora\PelotaRebotadora\bin\Debug\PelotaRebotadora.exe
+C:\Users\User\Desktop\PelotaRebotadora\PelotaRebotadora\bin\Debug\PelotaRebotadora.pdb
+C:\Users\User\Desktop\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.exe
+C:\Users\User\Desktop\PelotaRebotadora\PelotaRebotadora\obj\Debug\PelotaRebotadora.pdb
